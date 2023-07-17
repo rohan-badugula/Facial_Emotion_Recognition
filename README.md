@@ -64,7 +64,7 @@ The model was trained using 50 epochs and a batch size of 128 with all the image
 
 ---
 # Training Plots
-![Example Image](images/plots.jpg)
+![Example Image](Images/Plots.jpg)
 
 
 # Results
