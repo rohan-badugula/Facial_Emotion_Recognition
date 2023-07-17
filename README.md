@@ -61,3 +61,12 @@ A dense layer with a SoftMax activation function, with 7 neurons for the classes
 ---
 # Implementation Details
 The model was trained using 50 epochs and a batch size of 128 with all the images in the training set. Hyperparameters were cross-validated to obtain the model with the highest accuracy. The highest accuracy was achieved at the 49th epoch, and the checkpoint was set to save the model at that point to maintain the accuracy.
+
+---
+# Training Plots
+![Example Image](images/plots.jpg)
+
+
+# Results
+- **Accuracy:** 82% on the validation generator.
+- **Loss:** 1.319 on the validation generator.
