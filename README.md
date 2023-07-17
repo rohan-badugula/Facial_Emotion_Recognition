@@ -80,7 +80,7 @@ The model was trained using 50 epochs and a batch size of 128, utilizing all the
 ---
 
 # Individual Prediction using Web cam
-![test](https://github.com/rohan-badugula/Facial_Emotion_Recognition/assets/75232973/f70ef6bd-7d6e-42cd-9efb-2b78bb682b82)![predic](https://github.com/rohan-badugula/Facial_Emotion_Recognition/assets/75232973/1f06e66b-8717-4d81-af08-50d586cc3b89)
+![test](https://github.com/rohan-badugula/Facial_Emotion_Recognition/assets/75232973/f70ef6bd-7d6e-42cd-9efb-2b78bb682b82) ![predic](https://github.com/rohan-badugula/Facial_Emotion_Recognition/assets/75232973/1f06e66b-8717-4d81-af08-50d586cc3b89)
 
 ---
 
