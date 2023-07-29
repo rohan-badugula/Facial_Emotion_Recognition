@@ -68,7 +68,7 @@ The model was trained using 50 epochs and a batch size of 128, utilizing all the
 
 ![Training Plots](https://github.com/rohan-badugula/Facial_Emotion_Recognition/assets/75232973/0d438a10-3f11-4346-84f1-4bd86905a42b)
 
-**Accuracy:** 82% on the validation set.
+**Accuracy:** 92% on the validation set.
 **Loss:** 1.319 on the validation set.
 
 ---
